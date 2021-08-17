@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @matthew-scott-jones
 
 - 👀 I’m interested in ...
-       * Web 3.0
-       * Open Metaverse 
-       * XR: VR AR
-       * Digital Assets / Blockchain (DeFi, NFT's, Crypto)
-       * Financial Markets (Macro)
-       * Gaming, Social, Entertainment 
+      * Web 3.0
+      * Open Metaverse 
+      * XR: VR AR
+      * Digital Assets / Blockchain (DeFi, NFT's, Crypto)
+      * Financial Markets (Macro)
+      * Gaming, Social, Entertainment 
         
 - 🌱 I’m currently learning ...
        * Python / Node.js / React 
