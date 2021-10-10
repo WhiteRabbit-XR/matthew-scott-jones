@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matthew-scott-jones
+- 👋 Hi, I’m Matt
 
 - 👀 I’m interested in ...
         - Web 3.0
