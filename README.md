@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Matt
 
+<!---
 - 👀 I’m interested in ...
         - Web 3.0
         - Open Metaverse 
@@ -13,7 +14,7 @@
         
 - 💞️ I’m looking to collaborate on ...
         - Startup projects focused on Web 3.0 / Open Metaverse / 3D Assets / DeFi 
-        
+--->        
 - 📫 How to reach me ...
         - Twitter @WhiteRabbit_w3
         
